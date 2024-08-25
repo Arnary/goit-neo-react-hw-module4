@@ -13,7 +13,7 @@ const ImageGallery = ({ imageList, openModal }) => {
                         />
                     </li>
                 )
-            })};
+            })}
             
         </ul>
     );
